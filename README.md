@@ -1,0 +1,1 @@
+Este é um Jogo da Velha simples, criado com HTML, CSS e JavaScript. O jogo permite que você jogue alternando entre os símbolos "X" e "O", tentando formar uma linha de três símbolos consecutivos, seja na horizontal, vertical ou diagonal. A cada partida, a ordem de quem começa é invertida.
